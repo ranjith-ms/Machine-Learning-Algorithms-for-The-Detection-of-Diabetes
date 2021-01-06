@@ -10,7 +10,7 @@ b)	Our neural network using the embeddings layer on the categorical features lea
 
 
 ## ANN’s with embedding layers
-![](images/architecture.png)
+![](images/architecture.PNG)
 Pure ANN’s are slightly biased towards predicting the diseased condition as its evident from a recall score of 1 and a precision of 0.97. ANN+embeddings has a test accuracy of 1 indicating that it predicts all the test examples correctly.
 
 
