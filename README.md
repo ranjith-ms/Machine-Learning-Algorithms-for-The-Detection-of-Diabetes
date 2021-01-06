@@ -5,7 +5,11 @@ Diabetes is one of the fastest-growing chronic life-threatening diseases that is
 
 
 The main contributions of this paper are:
+
+
 a)	We used the dataset from Islam, MM Faniqul, et al [https://link.springer.com/chapter/10.1007/978-981-13-8798-2_12] and used different algorithms like Decision tree, Random forest, logistic regression, Naïve Bayes, KNN, Neural network, and Neural Networks with embeddings in predicting diabetes.
+
+
 b)	Our neural network using the embeddings layer on the categorical features learns a distributed representation of the categories. This method outperforms every other method leading to an accuracy of  100%, and an F1 score of 100% with sensitivity near to 100%. 
 
 
